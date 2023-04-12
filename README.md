@@ -8,7 +8,7 @@ I'm Youssef from Egypt, and I do Machine Learning. I really enjoy coding and pro
 
 - 🌱 I’m currently learning **Machine Learning**
 
-- 💬 Ask me about **C++, Python, Dart and Flutter**
+- 💬 Ask me about **C++, Python and ML**
 
 #
 
