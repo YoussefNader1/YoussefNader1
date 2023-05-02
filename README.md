@@ -33,7 +33,7 @@ I'm Youssef from Egypt, and I do Machine Learning. I really enjoy coding and pro
 &NewLine;
 
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=androidstudio,flutter,firebase,visualstudio,vscode,git,bash,linux,nodejs,qt,sqlite,mysql,tensorflow,blender,,,idea,pr,ps&perline=7" />
+    <img src="https://skillicons.dev/icons?i=androidstudio,flutter,firebase,visualstudio,vscode,git,bash,linux,nodejs,qt,sqlite,mysql,tensorflow,blender,unity,idea,pr,ps&perline=6" />
 </div>
 
 
