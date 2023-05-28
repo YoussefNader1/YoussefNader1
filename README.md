@@ -56,3 +56,15 @@ I'm Youssef from Egypt, and I do Machine Learning. I really enjoy coding and pro
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=YoussefNader1&theme=github-dark-blue&hide_border=true" alt="YoussefNader1" />
 </a>
 </div>
+
+
+
+<!-- WakaTime Stats -->
+## Coding Activity (last 7 days)
+
+  
+<div align="center">
+<a href="https://wakatime.com/@yusufnasserdev" target="_blank">
+<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=YoussefNader1&&theme=github_dark&hide_border=true&v=2&langs_count=4&range=last_7_days" alt="YoussefNader1"/>
+</a>
+</div>
