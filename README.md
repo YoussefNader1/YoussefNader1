@@ -43,12 +43,7 @@ I'm Youssef from Egypt, and I do Machine Learning. I really enjoy coding and pro
     <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=YoussefNader1&langs_count=2&theme=github_dark&hide_border=true&env=PAT_1" alt="YoussefNader1 most used languages" />
 </div>
 
-<!--
-# 
-<div align="center">
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=YoussefNader1&theme=github_dark&hide_border=true&v=2&langs_count=4" alt="YoussefNader1" /></p>
-</div>
--->
+
 #
 
 <div align="center">
@@ -60,7 +55,7 @@ I'm Youssef from Egypt, and I do Machine Learning. I really enjoy coding and pro
 
 
 <!-- WakaTime Stats -->
-## Coding Activity (last 7 days)
+<!-- ## Coding Activity (last 7 days)
 
   
 <div align="center">
@@ -68,3 +63,4 @@ I'm Youssef from Egypt, and I do Machine Learning. I really enjoy coding and pro
 <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=YoussefNader1&&theme=github_dark&hide_border=true&v=2&langs_count=4&range=last_7_days" alt="YoussefNader1"/>
 </a>
 </div>
+ -->
