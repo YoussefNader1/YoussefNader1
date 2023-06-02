@@ -10,6 +10,22 @@ I'm Youssef from Egypt, and I do Machine Learning. I really enjoy coding and pro
 
 - 💬 Ask me about **C++, Python and ML**
 
+
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+
+   [![wakatime](https://wakatime.com/badge/user/ebf9f4c2-244a-48fe-a82e-973f7d42b400.svg)](https://wakatime.com/@ebf9f4c2-244a-48fe-a82e-973f7d42b400)
+
+  <a href="https://gitmoji.dev">
+  <img
+    src="https://img.shields.io/badge/gitmoji-%20😜%20😍-FFDD67.svg?style=flat-square"
+    alt="Gitmoji"
+  />
+</a>
+  
+</div>
+
+
 #
 
 ## Connect with me:
