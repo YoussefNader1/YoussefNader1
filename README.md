@@ -1,12 +1,12 @@
 ## Hi there 👋, I'm Youssef Nader
 
 <div align="center">
-I'm Youssef from Egypt, and I do Machine Learning. I really enjoy coding and problem solving. C++ was my first programming language so I love doing work with it as well.
+I'm Youssef from Egypt, and I do Machine Learning. I really enjoy coding . C++ was my first programming language so I love doing work with it as well.
 </div>
 
 #
 
-- 🌱 I’m currently learning **NLP**
+- 🌱 I’m currently learning **NLP and HCI**
 
 - 💬 Ask me about **C++, Python and ML**
 
