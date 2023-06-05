@@ -1,4 +1,4 @@
-## Hi there 👋, I'm Youssef Nader
+## Hi there 👋🧑‍💻, I'm Youssef Nader
 
 <div align="center">
 I'm Youssef from Egypt, and I do Machine Learning. I really enjoy coding . C++ was my first programming language so I love doing work with it as well.
