@@ -71,7 +71,7 @@ I'm Youssef from Egypt, and I do Machine Learning. I really enjoy coding . C++ w
 
 
 <!-- WakaTime Stats -->
-## Coding Activity (last 7 days)
+<!-- ## Coding Activity (last 7 days) -->
 
   
 <!-- <div align="center">
