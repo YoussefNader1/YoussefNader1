@@ -71,7 +71,7 @@ I'm Youssef from Egypt, and I do Machine Learning. I really enjoy coding . C++ w
 
 
 <!-- WakaTime Stats -->
-## Coding Activity (last 7 days)
+<!-- ## Coding Activity (last 7 days)
 
   
 <div align="center">
@@ -79,4 +79,4 @@ I'm Youssef from Egypt, and I do Machine Learning. I really enjoy coding . C++ w
 <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=YoussefNader1&&theme=github_dark&hide_border=true&v=2&langs_count=2&range=last_7_days" alt="YoussefNader1"/>
 </a>
 </div>
-
+ -->
