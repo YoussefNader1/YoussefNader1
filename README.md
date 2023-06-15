@@ -8,7 +8,7 @@ I'm Youssef from Egypt, and I do Machine Learning. I really enjoy coding . C++ w
 
 - 🌱 I’m currently learning **NLP and HCI**
 
-- 💬 Ask me about **C++, Python and ML**
+- 💬 Ask me about **Python and ML**
 
 
 <div id="header" align="center">
