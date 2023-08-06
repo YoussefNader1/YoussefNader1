@@ -6,7 +6,7 @@ I'm Youssef from Egypt, and I do Machine Learning. I really enjoy coding . C++ w
 
 #
 
-- 🌱 I’m currently learning **NLP and HCI**
+- 🌱 I’m currently learning **Flutter**
 
 - 💬 Ask me about **Python and ML**
 
