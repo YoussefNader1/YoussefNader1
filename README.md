@@ -74,8 +74,8 @@ I'm Youssef from Egypt, and I do Machine Learning. I really enjoy coding . C++ w
 ## Coding Activity (last 7 days)
 
   
-<!-- <div align="center">
+<div align="center">
 <a href="https://wakatime.com/@YoussefNader1" target="_blank">
 <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=YoussefNader1&&theme=github_dark&hide_border=true&v=2&langs_count=2&range=last_7_days" alt="YoussefNader1"/>
 </a>
-</div> -->
+</div> 
