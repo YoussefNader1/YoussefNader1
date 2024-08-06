@@ -49,7 +49,7 @@ I'm Youssef from Egypt, and I do Web Development and Machine Learning. I really 
 &NewLine;
 
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=androidstudio,flutter,firebase,visualstudio,vscode,sublime,pycharm,phpstorm,idea,clion,anaconda,git,bash,linux,nodejs,laravel,bootstrap,qt,sqlite,mysql,tensorflow,blender,unity,idea,arduino,pr,ps&perline=9" />
+    <img src="https://skillicons.dev/icons?i=dotnet,flutter,androidstudio,firebase,visualstudio,vscode,sublime,pycharm,phpstorm,idea,clion,anaconda,git,bash,linux,nodejs,laravel,bootstrap,qt,sqlite,mysql,tensorflow,blender,unity,idea,arduino,pr,ps&perline=7" />
 </div>
 
 
