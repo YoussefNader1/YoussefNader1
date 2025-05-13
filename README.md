@@ -60,12 +60,8 @@ I'm Youssef from Egypt, and I do Web Development and Machine Learning. I really 
 </div>
 
 
-#
-
 <div align="center">
-<a href="https://github.com/anuraghazra/github-readme-stats">
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=YoussefNader1&theme=github-dark-blue&hide_border=true" alt="YoussefNader1" />
-</a>
+ <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=YoussefNader1&theme=dark" alt="GitHub Streak" /></a>
 </div>
 
 
