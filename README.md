@@ -43,16 +43,6 @@ I'm Youssef from Egypt, and I do Web Development and Machine Learning. I really 
     <img src="https://skillicons.dev/icons?i=dotnet,flutter,androidstudio,firebase,visualstudio,vscode,sublime,pycharm,phpstorm,idea,clion,anaconda,git,bash,linux,nodejs,laravel,bootstrap,qt,sqlite,mysql,tensorflow,blender,unity,idea,arduino,pr,ps&perline=7" />
 </div>
 
-
-## 🏆 Featured Projects
-<!-- Add 2-3 of your best projects with brief descriptions and links -->
-<div align="center">
-  <a href="https://github.com/YoussefNader1/YourProjectName">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=YoussefNader1&repo=CGERPSystem&theme=github_dark" />
-  </a>
-  <!-- Add more featured repos as needed -->
-</div>
-
 ## States
 
 <div align="center">
