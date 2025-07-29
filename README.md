@@ -1,13 +1,19 @@
+
 ## Hi there 👋, I'm Youssef Nader 🧑‍💻
 
 <div align="center">
 I'm Youssef from Egypt, and I do Web Development and Machine Learning. I really enjoy coding. C++ was my first programming language so I love doing work with it as well.
 </div>
 
+
 ## About Me
 - 💬 Ask me about **C# and .Net**
 - 🔭 I'm currently working on CGenius Project
 - 🌱 I'm always learning new technologies
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+there+👋,+I'm+Youssef+Nader;Web+Developer+%26+ML+Enthusiast;C%2B%2B+and+.NET+Developer;Always+Learning+New+Technologies&font=Roboto&size=24&duration=3000&pause=1000&color=58A6FF&center=true&width=600&height=60" alt="Typing SVG" />
+</div>
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
@@ -40,7 +46,7 @@ I'm Youssef from Egypt, and I do Web Development and Machine Learning. I really 
 ## Tools and Frameworks:
 
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=dotnet,flutter,androidstudio,firebase,visualstudio,vscode,sublime,pycharm,phpstorm,idea,clion,anaconda,git,bash,linux,nodejs,laravel,bootstrap,qt,sqlite,mysql,tensorflow,blender,unity,idea,arduino,pr,ps&perline=7" />
+    <img src="https://skillicons.dev/icons?i=dotnet,visualstudio,vscode,sublime,pycharm,phpstorm,idea,clion,anaconda,git,bash,linux,nodejs,laravel,bootstrap,qt,sqlite,mysql,tensorflow,blender,unity,idea,flutter,androidstudio,firebase,arduino,pr,ps&perline=7" />
 </div>
 
 ## States
@@ -72,3 +78,14 @@ I'm Youssef from Egypt, and I do Web Development and Machine Learning. I really 
   ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YoussefNader1&theme=github-dark)
   
 </div>
+
+## 🔥 Streak Stats
+<div align="center">
+  <img src="https://github-readme-streak-stats-eight.vercel.app?user=YoussefNader1&theme=dark&hide_border=true" alt="YoussefNader1's streak"/>
+</div>
+
+## 🏆 GitHub Trophies
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=YoussefNader1&theme=darkhub&no-frame=true&margin-w=15&margin-h=15&column=4" alt="YoussefNader1's trophies"/>
+</div>
+
