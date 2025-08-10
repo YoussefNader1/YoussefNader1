@@ -49,11 +49,10 @@ I'm Youssef from Egypt, and I do Web Development and Machine Learning. I really 
     <img src="https://skillicons.dev/icons?i=dotnet,visualstudio,vscode,sublime,pycharm,phpstorm,idea,clion,anaconda,git,bash,linux,nodejs,laravel,bootstrap,qt,sqlite,mysql,tensorflow,blender,unity,idea,flutter,androidstudio,firebase,arduino,pr,ps&perline=7" />
 </div>
 
-## States
-
+## 📊 States
 <div align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=YoussefNader1&show_icons=true&theme=github_dark&hide_border=true&line_height=27&card_width=390px" alt="YoussefNader1 GitHub stats" />
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YoussefNader1&langs_count=4&theme=github_dark&hide_border=true" alt="YoussefNader1 most used languages" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=YoussefNader1&show_icons=true&theme=github_dark&hide_border=true&line_height=27&card_width=390px&cache_seconds=21600" alt="YoussefNader1 GitHub stats" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YoussefNader1&langs_count=4&theme=github_dark&hide_border=true&cache_seconds=21600" alt="YoussefNader1 most used languages" />
 </div>
 
 ## Profile Summary
